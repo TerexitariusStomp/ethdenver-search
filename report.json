@@ -1,0 +1,410 @@
+{
+  "config": "ethdenver",
+  "slug": "ethdenver-search",
+  "videos": 1966,
+  "transcribed": 1887,
+  "skipped": [
+    {
+      "id": "5syNjWye8kU",
+      "title": "ETHDenver 2026 Recap | Day 3",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "Ft70dJRlw3g",
+      "title": "Infrastructure's AI Moment: The Race to Power Autonomous Agents | Shannon Wells & Molly Mackinlay",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "CoVEhjXPbjY",
+      "title": "Transparent by Default to Private by Design: Navigating Ethereum’s Privacy Primitives | Guy - Fhenix",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "c2S99xRCxJs",
+      "title": "ZPrize: Making Real-Time ZK Proofs a Reality",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "t9GaMH1TC5E",
+      "title": "Aleo Track",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "ymeRDUcONL0",
+      "title": "Web3 and the Art of Decentralization A Comedian's Perspective Willonius Hatcher",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "F-nMlaiIwjI",
+      "title": "Dance will power the Metaverse by Cjaiilon Rodriques",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "tlXVuM70GC8",
+      "title": "DAOs at Denver | ETHDenver #BUIDLWeek Mini-Summit",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "MElmh2fFJ9g",
+      "title": "did:day: An Exploration of Decentralized Identity",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "PvfkzLyVxUc",
+      "title": "ETHDenver 2023 Opening Ceremony",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "K0ctrnGlBsA",
+      "title": "Innovations in Market Making by Jerry Liu",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "q4NsLmTGNAU",
+      "title": "Ambire Mini-Summit \"The Next Billion\" Vision",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "DEtRTf6F1lY",
+      "title": "ETHDENVER #BUIDLHUB PIZZA PARTY - BOUNTIES + TEAM FORMATION",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "mGeS-BTBs9E",
+      "title": "ETHDenver 2022 - Apply now!",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "jtwnKJyVV0w",
+      "title": "ETHDenver 2022 In-person #BUIDLathon Closing Ceremony",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "WL9qusgqMLk",
+      "title": "Colorado Lottery GameJam - Sergey Nazarov, Co-founder of Chainlink",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "xiYRiPtRxcU",
+      "title": "Hacking the Downtown Denver Daniels Fisher Clocktower for ETHDenver",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "c3VK3CPC7kQ",
+      "title": "ETHDenver 2020 Finalists Presentations",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "K66KDpKYKPY",
+      "title": "ETHDenver 2020 Colorado Afterparty Performances",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "P69jKz3s9ck",
+      "title": "ETHDenver 2020 Recap",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "0l5BdP49y0o",
+      "title": "ETHDenver Highlights",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "MLyx7EYCqos",
+      "title": "ETH Denver Intro 2019",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "-ep4qWk3jAY",
+      "title": "Fauve Altman ~ From Oasis to Jungle: The Current State of Dapps stateofthedapps.com",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "_vi-hxYCMeY",
+      "title": "ETHDENVER 2019 - THE WORLD’S LARGEST ETHEREUM BLOCKCHAIN #BUIDLATHON | ETHDenver",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "--J34intwhc",
+      "title": "ETHDenver 2018 Hackathon + Workshops Promotional | ETHDenver",
+      "reason": "no-en-captions"
+    },
+    {
+      "id": "NPMYXAMHgT4",
+      "title": "Insurance & Reinsurance Through Restaking From Eric Waisanen AlphaGrowth",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "Gt39jH8SA2c",
+      "title": "The Open Future of Robotics | Jan Liphardt - OpenMind.org",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "Eq39bXgK2zI",
+      "title": "Cypherpunk Values and Zcash Tokenomics | Zooko Wilcox - Shielded Labs",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "5OqBTsOwS6o",
+      "title": "Real-World Assets: When Crypto Meets Reality | Jon Walch, Jillian Bethel, Ivy Kang, Felix  Machart",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "z1h01YBWL9E",
+      "title": "DeFi & Beyond: This Is Not Financial Advice Ether Knight | Chris Bradbury - Summer.fi, Maria Magenes",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "ZCO53GmLmwk",
+      "title": "Joey Krug Predicting the Future of US Crypto Policy | Joey Krug - Founders Fund",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "EGaYPyAX5zM",
+      "title": "The coming Agent to Agent Economy | Shikhai Wei | Carra Wu | Eskender Abebe | Jeff Wilser |",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "2F1s9VozdX0",
+      "title": "Debate: ICOs Are Better Than VC Funding | Matt O'Connor - Legion | Haseeb Qureshi - Dragonfly",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "kky4PLXG7Xc",
+      "title": "AI Summit: Mother",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "wUMoSpmG6i0",
+      "title": "Anvil Protocol: Modernizing Finance With Onchain Collateral | M - Anvil",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "HsE1S5D7YrI",
+      "title": "AI Development on Kite AI, the First Purpose-Built AI Layer 1 | Vikas Pandey - Kite AI",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "wKbDWICiNdg",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "RCfLu_TCe2Q",
+      "title": "Turning Assets Into Agents With ERC-6551 | Jayden Windle - Future Primitive",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "KeV7qd4r2Og",
+      "title": "Make Any DeFi App Atomically Composable | Viraz Malhotra - Shell Protocol",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "L5zdmGNegnQ",
+      "title": "Next Generation ZKP System and Single Slot Finality | Tiancheng Xie - Polyhedra Network",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "P6TFcBEXESk",
+      "title": "Public Goods Funding: The New Meta | Kevin Owocki - Gitcoin",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "zvFuXiJXfhQ",
+      "title": "Parallelizing EVM With Sei | Jayendra (Jay) Jog - Sei",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "ZzAGxZNlCXs",
+      "title": "xERC20, the Open Crosschain Token Standard | Eddie Ye - Connext",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "UWqUKQZbsfw",
+      "title": "DeFi Marketing Odyssey: Struggles, Best Practices, and New Tools | Maria Magenes - Summer Finance",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "xcU0c26OYQo",
+      "title": "Metis Bounty",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "lCHk67L_Hmw",
+      "title": "Wen Escape Velocity, Wen Ossify by Venkatesh Rao & Danny Ryan",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "JHH9nG6bxKQ",
+      "title": "Hopes and Dreams of a Metaverse Wanderer | ETHDenver 2023",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "nyNihCeLYTM",
+      "title": "Customizable NFTs with Greg Zaitsev",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "ERFJUAkFV8s",
+      "title": "Building Interoperable Permissionless Games with HyperPlay (Workshop) with Jacobc.eth and Leon Do",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "67eUlvybM-E",
+      "title": "Change is Coming! Understanding the New Rules of NFT Sales and Secured Financing with Jeff Karas",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "SduVmsBvH5E",
+      "title": "Disrupting the Music Industry and Building a Web3 Interactive Music Platform by Adrian Quihuis",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "6sBMNm2FHeA",
+      "title": "All The Ways We Have Fucked Up Governance, and hHw to Rethink It",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "GO94r5FdF3g",
+      "title": "Blending the Best of Hierarchies and Networks: An Organizing Structure for DAOs with David",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "o0N1Z9AyrEM",
+      "title": "Doing Decentralized Identity Right with Kelvin Fichter",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "jJzY5i3SIV8",
+      "title": "Power the Future of DEPIN by Raullen Chai | ETHDenver 2023",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "CNhj6YwKiV8",
+      "title": "ETHDenver 2023: #YearoftheSpork - Main Event Day #4",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "IrDVRhrfYT8",
+      "title": "How to stop your wallet from collecting your personal data: Enabling the Nym Mixnet with Metamask",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "Kvqkk1D43OA",
+      "title": "ITHAKA: The Julian Assange Documentary by Kurt Opsahl",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "HrP4MNXhIwM",
+      "title": "Future of self-publishing and web3 by Khea Chang",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "dBWVJA8Dxmg",
+      "title": "Harberger Taxes + Crypto: Abundance Through Scarcity with Graven Prest",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "WKgdrOSrDhw",
+      "title": "Security: The Make or Break For Transitioning from Web2 to Web3 by Shahar Madar",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "m5x0eVJ2bZU",
+      "title": "Let’s Form Group: Screening and Q&A with the Filmmakers & Subjects w/ Anjali Young & Thobey Campion",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "3ygfc0KTJoY",
+      "title": "How Ethereum dApps can be deployed and run on Solana without any changes with Andrey Falaleev",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "vnK0KNrFRDY",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "BYZRgmANqmo",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "FIYyQgkZPiU",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "7TrDUjt5GfQ",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "J-uFFEELi0s",
+      "title": "Developer Console: Learn, Create, and Operate All in One Place - Josh Quintal",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "xJQmoR1ScHk",
+      "title": "The ColoradoJam Incubator",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "wKqqYNQQTMs",
+      "title": "Broke AF: Crypto UX is Bad but Getting Better",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "JVUy9LXzwoE",
+      "title": "Interoperability via the Rainbow Bridge - Chad Ostrowski",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "IVmBF3BoSQo",
+      "title": "Composing New Financial Instruments in DeFi – Nodar Janashia",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "vKjhA08oK8g",
+      "title": "Austin Griffith and David Mihal - Meet the \"Buffigang\"",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "GHb6CuAWNyo",
+      "title": "ETHDenver 2020 Video: BUIDLing, PegaBufficorns & More!",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "P5XNbFjV6mA",
+      "title": "An Intro to Cosmos IBC – Brent Xu",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "-ZWsiEVi6Zo",
+      "title": "NA",
+      "reason": "fetch-failed: manual:Command failed: yt-dlp --skip-download --write-subs --sub-langs en,en-US,"
+    },
+    {
+      "id": "CwJU498ttUI",
+      "title": "Zilliqa ~ Smarter than the Contract: Secure Solidity Patterns and Alternatives",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "Sy7qdlUMF_A",
+      "title": "Ramon Recuero ~ #Buidling the Infrastructure for Adoption - Zeppelin",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    },
+    {
+      "id": "gdfIVD7pgdI",
+      "title": "Ashleigh Schap ~ Biz Dev & Crypto: Breaking Out of the Bubble   MakerDAO",
+      "reason": "fetch-failed: auto:Command failed: yt-dlp --skip-download --write-auto-subs --sub-langs en,en-"
+    }
+  ],
+  "cues": 677554,
+  "captionSource": {
+    "manual": 0,
+    "auto": 1887
+  },
+  "windows": 93156,
+  "speakers": 1297
+}
